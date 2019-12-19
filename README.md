@@ -8,3 +8,6 @@ If you want to empty the glass fully?then press 2
 Then,Input the total height of the object.
 It'll output the answer that is the height you shall use in w==mgh.
 
+Go to: https://www.dropbox.com/sh/vsg9uhqb8irh49h/AACpjMfyCty4YmPqptrJ2_6Fa?dl=0
+To download the folder and use it.
+
